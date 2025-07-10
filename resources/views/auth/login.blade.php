@@ -101,7 +101,7 @@
                     
                     <div class="text-center mt-3">
                         <small class="text-muted">
-                            Demo: email@test.com / password123
+                            Demo: admin@example.com / password123
                         </small>
                     </div>
                 </div>
